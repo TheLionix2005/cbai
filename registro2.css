@@ -1,0 +1,98 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #a8ff78;  
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(288, 97%, 71%, 0.678), hsla(99, 100%, 74%, 0.685)), url(https://cdn.andro4all.com/files/2020/08/Mejores-apps-audiolibros.jpg?width=1200);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(182, 94%, 69%, 0.678), hsla(278, 100%, 81%, 0.685)), url(https://cdn.andro4all.com/files/2020/08/Mejores-apps-audiolibros.jpg?width=1200);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.titulo2 {
+    font-family: 'Roboto';
+    
+    color: transparent;
+    margin: 0;
+    font-size: 30px;
+    color:white;
+    text-shadow: 0 0 5px cyan, 0 0 10px cyan;}
+
+body {
+    background-color:  rgb(172, 245, 255);}
+
+.boton1 {
+    text-decoration:none;
+    border-radius: 55px;
+    font: weight 300px;
+    font-size:20px;
+    color:#ffffff;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:150px;
+    padding-right:150px;
+    background-color:#3385ff;
+    text-shadow: 0 0 10px rgb(0, 255, 34), 0 0 15px red;}
+    .titulo5 {
+        font-family: 'Roboto';
+        
+        color: transparent;
+        margin: 0;
+        font-size: 30px;
+        color:rgb(0, 0, 0);
+        text-shadow: 0 0 5px cyan, 0 0 10px cyan;}
+
+    
+.boton2 {
+    text-decoration:none;
+    border-radius: 55px;
+    font: weight 300px;
+    font-size:20px;
+    color:#ffffff;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:150px;
+    padding-right:150px;
+    background-color:#3385ff;
+    text-shadow: 0 0 10px rgb(0, 255, 34), 0 0 15px red;}
+
+.container  {
+    background-color: rgb(35, 149, 255);
+    border: 5px solid blue;
+    box-shadow: inset 0 0 30px rgb(248, 245, 245), 0 0 10px black, 0 0 20px black;
+    border-radius: 60px;
+    width: 60%;
+    max-width: 85%;
+    
+    margin: auto;
+    padding: 20px;
+    text-align: center;}
+    
+    
+.neon1 {
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    font-size: 25px;
+    color:white;
+    text-shadow: 0 0 5px cyan, 0 0 10px cyan;}
+    
+
+.titulo3 {
+    font-family: 'Roboto';
+    
+    color: transparent;
+    margin: 0;
+    font-size: 40px;
+    color:white;
+    text-shadow: 0 0 5px cyan, 0 0 10px cyan;}
+    .tabla1 {
+        background-color: rgb(54, 216, 231);
+        border: 5px solid blue;
+        box-shadow: inset 0 0 30px rgb(248, 248, 248);
+        border-radius: 25px;
+        text-align: center;}
+    
+
+
+
