@@ -1,0 +1,43 @@
+body 
+{
+    background-color:  rgb(172, 245, 255);
+}
+
+.tabla1 {
+    background-color: rgb(2, 217, 255);
+    width: 80%;
+    
+}
+.container  {
+    background-color: rgb(35, 149, 255);
+    border: 5px solid blue;
+    box-shadow: inset 0 0 30px red, 0 0 10px black, 0 0 20px black;
+    border-radius: 60px;
+    width: 60%;
+    max-width: 85%;
+
+    margin: auto;
+    padding: 20px;
+    text-align: center;}
+
+.neon1 {
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    font-size: 25px;
+    color:white;
+    text-shadow: 0 0 5px cyan, 0 0 10px cyan;}
+    
+.registrarse {
+    background-color:rgb(35, 149, 255);
+    font-family: 'Mukta', sans-serif;
+    size: 45;
+    width: 30%;}
+
+.datos {
+    border-color: rgb(0, 0, 0);}
+
+.continuar {
+    border-color: black;
+    border: 5;
+
+}
