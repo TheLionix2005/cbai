@@ -11,7 +11,7 @@
     <td>
     <font class="titulo"size="6" color="Black" face="comic sans ms"> C.B.A INTERNACIONAL
 </font></td></tr>
-<tr>
+
 <th>
 <center> <br>
 <tr>
